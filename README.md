@@ -70,7 +70,7 @@ If you use this package, please cite it as below.
 }
 ```
 
-### Licence
+### License
 
 *** 
-The software is released under the [MIT](https://github.com/apostolosev/MSO_WT/blob/main/license.txt) licence.
+The software is released under the [MIT](https://github.com/apostolosev/MSO_WT/blob/main/license.txt) license.
