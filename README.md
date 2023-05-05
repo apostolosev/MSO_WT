@@ -10,9 +10,10 @@ around a different central frequency.
 ### Installation
 
 ***
-1. Install from source <br> <pre><code>git clone https://github.com/apostolosev/MSO_WT
+1. Install using pip <br> <pre><code>pip install mso_wt</code></pre>
+2. Install from source <br> <pre><code>git clone https://github.com/apostolosev/MSO_WT
 cd MSO_WT
-pip install .</pre></code>
+pip install .</code></pre>
 
 
 ### Minimal Example 
