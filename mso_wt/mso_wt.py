@@ -351,7 +351,7 @@ class MSOWT:
 
         # Calculate the IMFs
         IMFs = np.zeros((self.nIMFs, X.shape[1]), dtype=x.dtype)
-        for k in range(weights):
+        for k in range(len(weights)):
             IMFs[labels[k], ...] += X[k, ...]
 
         # Sort the IMFs based on their central frequency
